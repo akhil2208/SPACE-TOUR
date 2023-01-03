@@ -1,0 +1,309 @@
+body{
+    width: 1440px;
+    height: 900px;
+    background-image: url("assets/crew/background-crew-desktop.jpg");
+    background-repeat: no-repeat;
+    color: #FFFF;
+    margin: 0;
+    background-color: #0B0D17;
+}
+
+/*******************************TOP******************************/
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.top{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 2.7px;
+    text-transform: uppercase;
+    width: 1385px;
+    height: 96px;
+    position: absolute;
+    top: 40px;
+    left: 55px;
+}
+
+.top-rec1{
+    width: 473px;
+    height: 1px;
+    opacity: 25.15%;
+    background-color: #FFFFFF;
+    position: absolute;
+    top: 48px;
+    left: 112px;
+}
+.top-rec2{
+    width: 830px;
+    height: 96px;
+    position: absolute;
+    left: 555px;
+    background: #FFFFFF0A;
+    backdrop-filter: blur(40px);
+}
+
+.oval{
+    width: 48px;
+    height: 48px;
+    background: #FFFFFF;
+    border-radius: 50%;
+    position: absolute;
+    top: 24px;
+}
+
+.path{
+    width: 48px;
+    height: 48px;
+    position: absolute;
+    top: 24px;
+}
+
+.topname{
+    margin: 0;
+    margin-right: 48px;
+    text-decoration: none;
+}
+
+.top-text{
+    position: absolute;
+    left: 123px;
+    top: 39px;
+}
+
+.numbers{
+    font-weight: 700;
+    margin-right: 12px;
+}
+
+.name{
+    font-weight: 400;
+}
+
+.top-selector-1{
+    width: 70px;
+    height: 57px;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.top-selector-1:hover{
+    width: 70px;
+    height: 3px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+    position: absolute;
+    top: 54px;
+    left: 0px;
+}
+
+
+.top-selector-2{
+    width: 127px;
+    height: 57px;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 0px;
+    left: 126px;
+}
+
+
+.top-selector-2:hover{
+    width: 127px;
+    height: 3px;
+    background-color: #ffffff;
+    opacity: 50%;
+    position: absolute;
+    top: 54px;
+    left: 126px;
+}
+
+
+.top-selector-3{
+    width: 71px;
+    height: 3px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 54px;
+    left: 310px;
+}
+/*
+.top-selector-3:hover{
+    width: 71px;
+    height: 3px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+    position: absolute;
+    top: 54px;
+    left: 310px;
+}
+*/
+
+.top-selector-4{
+    width: 127px;
+    height: 57px;
+    background-color: #ffffff00;
+    position: absolute;
+    top: 0px;
+    left: 436px;
+}
+
+.top-selector-4:hover{
+    width: 127px;
+    height: 3px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+    position: absolute;
+    top: 54px;
+    left: 436px;
+}
+
+
+/*******************************TOP******************************/
+
+/*******************************RIGHT******************************/
+
+.crew-img{
+    height: 712px;
+    position: absolute;
+    left: 735px;
+    top: 198px;
+}
+
+/*******************************RIGHT******************************/
+
+/*******************************LEFT******************************/
+
+h2{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 28px;
+    line-height: 33.6px;
+    letter-spacing: 4.72px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin: 0;
+}
+
+.left{
+    position: absolute;
+    top: 212px; 
+    left: 166.5px;
+}
+
+.left-num{
+    font-weight: 700;
+    opacity: 25%;
+}
+
+.left-sen{
+    font-weight: 400;
+    margin-left: 28px;
+}
+
+
+h3{
+    font-family: 'Bellefair', serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 36.67px;
+    text-transform: uppercase;
+    opacity: 50%;
+    margin: 0;
+    position: absolute;
+    top: 188px;
+}
+
+h1{
+    font-family: 'Bellefair', serif;
+    font-size: 56px;
+    font-weight: 400;
+    line-height: 64.18px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin: 0;
+    width: 488px;
+    position: absolute;
+    left: 0.5px;
+    top: 240px;
+}
+
+p{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    color: #D0D6F9;
+    width: 444px;
+    position: absolute;
+    top: 331px;
+}
+
+
+.dot{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #FFFFFF;
+    opacity: 17.44%;
+    position: absolute;
+    left: 0px;
+    top: 579px;
+}
+
+.d-1{
+    position: absolute;
+    background-color: #FFFFFF;
+    opacity: 100%;
+}
+/*
+.d-1:hover{
+    position: absolute;
+    background-color: #FFFFFF;
+    opacity: 50%;
+}
+*/
+
+.d-2{
+    position: absolute;
+    left: 39px;
+}
+
+.d-2:hover{
+    position: absolute;
+    left: 39px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+}
+
+.d-3{
+    position: absolute;
+    left: 78px;
+}
+
+.d-3:hover{
+    position: absolute;
+    left: 78px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+}
+
+.d-4{
+    position: absolute;
+    left: 117px;
+}
+
+.d-4:hover{
+    position: absolute;
+    left: 117px;
+    background-color: #FFFFFF;
+    opacity: 50%;
+}
+
+
+
+/*******************************LEFT******************************/
